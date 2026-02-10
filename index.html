@@ -1,1 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Crossing: 9th Month</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Fonts: 'Varela Round' (AC Style) and 'Fredoka' (Cute/Bubbly) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body>
 
+    <!-- Background Decor (Heartopia Elements) -->
+    <div class="bg-decor">
+        <div class="cloud c1"><i class="fa-solid fa-cloud"></i></div>
+        <div class="cloud c2"><i class="fa-solid fa-cloud"></i></div>
+        <div class="heart h1"><i class="fa-solid fa-heart"></i></div>
+        <div class="heart h2"><i class="fa-solid fa-heart"></i></div>
+    </div>
+
+    <!-- Intro: Isabelle Style Speech Bubble in Pink -->
+    <div id="intro-screen">
+        <div class="speech-bubble">
+            <span class="bubble-icon"><i class="fa-solid fa-bell"></i></span>
+            <h1 class="ac-title">Good morning!</h1>
+            <p>Welcome to our 9th Month!</p>
+            <p>I found some cute memories for you!</p>
+            <div class="triangle-down"></div>
+        </div>
+    </div>
+
+    <!-- Main Interface: The "Nook Phone" Inventory -->
+    <main id="main-interface" class="hidden">
+        
+        <div class="inventory-container">
+            <header class="ac-header">
+                <div class="header-tab">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+                <div class="header-text">
+                    <span class="tiny-label">My Pocket</span>
+                    <h2 id="dynamic-text">Collection</h2>
+                </div>
+            </header>
+
+            <!-- The Grid Layout -->
+            <div class="inventory-grid">
+                
+                <!-- Entry 1 -->
+                <div class="slot-item" data-id="1">
+                    <div class="item-bg bg-cream">
+                        <i class="fa-solid fa-cake-candles item-icon" style="color: #ff9aa2;"></i>
+                    </div>
+                    <span class="item-label">Birthdays</span>
+                </div>
+
+                <!-- Entry 2 -->
+                <div class="slot-item" data-id="2">
+                    <div class="item-bg bg-blue">
+                        <i class="fa-solid fa-paper-plane item-icon" style="color: #a2d2ff;"></i>
+                    </div>
+                    <span class="item-label">Missing You</span>
+                </div>
+
+                <!-- Entry 3 -->
+                <div class="slot-item" data-id="3">
+                    <div class="item-bg bg-mint">
+                        <i class="fa-solid fa-shapes item-icon" style="color: #bde0fe;"></i>
+                    </div>
+                    <span class="item-label">Blocks</span>
+                </div>
+
+                <!-- Entry 4 -->
+                <div class="slot-item" data-id="4">
+                    <div class="item-bg bg-purple">
+                        <i class="fa-solid fa-camera item-icon" style="color: #cdb4db;"></i>
+                    </div>
+                    <span class="item-label">See You</span>
+                </div>
+
+                <!-- Entry 5 (Image + Video) -->
+                <div class="slot-item" data-id="5">
+                    <div class="item-bg bg-pink">
+                        <i class="fa-solid fa-gift item-icon" style="color: #ffc8dd;"></i>
+                    </div>
+                    <span class="item-label">For You</span>
+                </div>
+
+            </div>
+            
+            <div class="ac-footer">
+                <i class="fa-solid fa-hand-point-up"></i> Select an item
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Modal: AC Letter Stationery -->
+    <div id="reader-modal" class="hidden">
+        <div class="modal-backdrop"></div>
+        
+        <div class="stationery-paper">
+            <button id="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            
+            <div class="scroll-content">
+                <div class="paper-header">
+                    <!-- AC Stamp Style -->
+                    <div class="stamp-box">
+                        <i class="fa-solid fa-heart"></i>
+                    </div>
+                    <h2 id="modal-title">Title Here</h2>
+                </div>
+                <div class="dashed-line"></div>
+                
+                <div id="modal-body">
+                    <!-- Content injected via JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
