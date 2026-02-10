@@ -1,107 +1,253 @@
 // --- The Inventory Database ---
 const entries = {
     1: {
-        title: "Birthdays",
+        title: "Birthday Pt.2",
         type: "letter",
-        body: `Birthdays never truly felt like my day. I used to sit at those family dinners, watching everyone talk and laugh while I just waited for the night to end. I was physically present, but emotionally somewhere far away. I didn’t feel celebrated just included out of routine.
+        body: `For the longest time, I thought birthdays were just dates on a calendar I've told you about it on my birthday.
 
-But then you walked into my 21st birthday and everything changed.
+They were days filled with greetings, cake, pictures, and polite smiles. Something you celebrated, something you got through, something that passed. I never really thought much about what it meant to celebrate someone’s life—what it meant to be there, truly there, for a person on the day that mattered most to them.
 
-You showed up with flowers you knew I’d love. A cake with a flavor that felt chosen just for me. You put in so much thought and effort into every little detail, even with everything else you had going on. You didn’t need grand gestures, your care spoke louder than any celebration ever could.
+It was just another day.
 
-You made me feel like the day actually belonged to me.
+Until it was yours.
 
-I remember how you tried every bit of food with me, even when your teeth were hurting, because you knew it made me happy. And when you were too full to finish your food, I gladly ate the rest for you, happy just to share anything with you. And when the wine I picked was too bitter for me, you didn’t let it go to waste. You drank it for me with that small smile of yours, like it was the easiest act of love in the world.
+Before your birthday, I was nervous in ways I couldn’t explain properly. Not the kind of nervous that comes from being late or unprepared, but the kind that settles quietly in your chest. The kind that makes you wonder if you’re doing things right, if you belong, if you’re enough. It was nerve-wracking to think if I had done enough prep.
 
-Those may seem like tiny things… but they meant everything.
+I was going to meet your family properly.
+I was going to step into your world.
+I was going to see the life you had lived long before I ever became part of it.
 
-We laughed, we scrolled through reels. When we were too full to eat another bite, we just leaned against each other. In that moment, I realized something:
+And I wanted so badly to do everything right—for you.
 
-I didn’t want the night to end.
-For once, I wanted time to slow down.
+That early morning, we ran.
 
-And for the first time in my life, I didn’t feel like I had to compromise or hide on my birthday. I didn’t feel out of place. I felt loved, simply because you were there.
+I wasn’t good at it. My legs burned, my breath was uneven, I prayed to God wondering if I could finish the fun run without collapsing, and I knew I looked ridiculous trying to keep up. But I didn’t mind. Because you were there. Because we were doing it together.
 
-You made me feel seen. You made me feel chosen. You made me feel loved in a way I had never felt on any birthday before — and in so many moments beyond that night.
+And somewhere between catching my breath and laughing at myself, I realized something. I may never be good at running, but I will always run for you.
 
-Thank you for making my birthday more than a date on a calendar.
-Thank you for making me feel like I am worth celebrating.
-Thank you for giving my heart its first memory of what a special birthday truly feels like.
-You turned my birthday into something special.
-You make me feel special.
+In the afternoon, we went to the river. I wasn’t used to the rocks, the mud and sand, the scratches on my feet, or the quiet but beautiful chaos of nature as it loomed over the hills. It was so new. It was wonderful. It was so far from what I was familiar with. But I loved it.
 
-That's why I'm always grateful for you, and because of that I'll reciprocate your love beyond special days, I love you!`
+Because in that moment, I wasn’t just visiting a place. I was stepping into your past. I was seeing the world that raised you, the memories that shaped you, the life you lived before me. And being allowed into that space felt like a gift I didn’t know how to repay, I didn't realize such a life had I not had a glimpse of it.
+
+That day, I also noticed your family.
+The way they laughed so easily.
+The way they spoke honestly even if it hurt.
+The way their concern and love flowed between them without hesitation.
+
+It was different from what I was used to, especially compared to Christmas, when everything felt quieter and more reserved. But this difference was beautiful. It was warm. It made me feel welcome.
+For the first time, I didn’t feel like I was just visiting.
+
+I felt like I belonged and I was truly grateful.
+It made me realize how lucky you are to have such a loving and supportive family. And it made me feel even luckier that I was allowed to be part of it, even just for a day.
+
+Somewhere between the running, the river, and our quiet conversations, I realized how much I had missed you.
+
+Life had been busy. Time had been unfair. Distance had been heavy.
+
+And finally being with you again, talking, laughing, sitting beside you felt like breathing after holding my breath for too long. Like my heart had been waiting for you to come back so it could finally relax.
+
+You may think I was not comfy, I was.
+You may think it bothered me, let them.
+You may think they were too much, They were just right.
+
+And I would relive that entire day without hesitation if it meant being with you. All of it was worth it—because it was with you.
+
+It was the day I understood, more deeply than ever, how much I love you. Again and again.
+
+I don’t know exactly what the future holds for us. But I know this: wherever you go, I want to be there. Whatever life gives us, I want to face it with you. However hard things become, I want to hold your hand through it all.
+
+Because you're stuck with me, and I am to prove myself to you and your family :>.`
     },
     2: {
-        title: "Missing You Pt. 2",
+        title: "Pictures",
         type: "letter",
-        body: `I know sometimes you tease me, thinking I don’t miss you as much as I say I do, but let me assure you, I do. More than you probably realize. These past few weeks apart have made me discover just how much I want to be near you, to hold you, kiss you, and just exist in your presence.
+        body: `I’m writing this while I’m still here, surrounded by noise, laughter, and voices all talking at once. It’s chaotic and loud, nothing like the quiet nights we used to have together. Back then, when it was just the four or three of us friends in a nice place, everything felt slower and softer.
 
-Even when we see each other, I find myself wanting more, more time, more jokes, more of you. I wasn’t like this before, back when we weren’t together, but now my heart has a mind of its own, and it seems to belong entirely to you.
+This place is nice. The people are fun. The night is okay. But it would be so much better if you were here.
 
-I catch myself thinking about you constantly, your smile, your laughter, the way your presence makes everything brighter. Every little memory of you fills me with warmth, and every moment apart makes me realize just how lucky I am. How did I get so fortunate to have someone as wonderful, as beautiful, and as perfectly you as you?
+Earlier, the WiFi went out. Suddenly, there was nothing to distract me. So I opened our old pictures and our old conversations instead. Our silly messages to pass time while hunger knawed at me.
 
-I may act a little clingy, but it’s only because my heart yearns for you. Being near you makes everything feel right, and being away makes me long for that closeness even more like i'm missing home when i'm at school.
+And I couldn’t stop smiling, because the only thing in my mind was-
+“We’re almost there,”, “Look how far we’ve come.”
 
-I’ve missed you more than words can say, and now, finally, I get to hold you again after reading this hehehehe`
+I remembered the day I confessed to you, how nervous I was, how my heart was pounding, how unreal it felt to finally tell you the truth. I remembered how giddy I felt when we first took pictures together, how I kept looking at them over and over like they were something precious.
+
+And now, here I am, doing it again.
+Still in love with you.
+Still smiling because of you.
+
+Tonight, I realized that I miss you.
+Again. (it will never stop)
+
+But it doesn’t feel heavy. It doesn’t feel sad. It feels warm. It feels like proof of how much you mean to me. Because before you, I never loved like this. Before, I was content with short meetings. One hour was enough. I never really craved more time. Months could pass, and I would be fine.
+
+But with you, my heart always wants more.
+
+I want to hold you longer.
+I want to kiss you again, even when we’ve already spent so much time doing it.
+I want time to slow down when I’m with you.
+
+I’ve never been this open before. I’ve never loved in a way that feels this deep and honest. Sometimes it even scares me a little, how much I care.
+
+As I look at our old pictures tonight, I don’t just see us. I see how much I’ve changed. I see someone who learned how to love without hiding. Someone who learned how to care without fear. Someone who finally understands what a real relationship feels like.
+
+All because of you.
+
+I never knew a love like this could exist. I never knew I could yearn this freely or speak my heart this openly. I never knew I could feel such want in loving someone this much.
+
+And yet, here I am.
+
+Sitting in a loud place, surrounded by people, thinking only of you.
+
+Thinking about how lucky I am to love my best friend. Thinking about how grateful I am that it’s you. Thinking about how, no matter where I am, my heart always finds its way back to you.
+
+I wish you were here.
+I wish I could hold your hand right now. I wish I could look at you and tell you all of this instead of typing it quietly on my phone.
+
+But for now, this will do.
+Just know that even in the middle of all this noise, you are my favorite thought.`
     },
     3: {
-        title: "Blocks",
-        type: "letter",
-        body: `I’ve been thinking a lot about Minecraft lately, but not because of the game itself. It has always been about us. Even back in grade school, when we were just friends and seatmates, playing together felt different. Single-player always felt off, incomplete somehow. But when we were in the same world, building, exploring, laughing, everything clicked. That’s when the game felt alive, and that’s when I felt happiest.
-
-Even now, in senior high and college, playing with you feels exactly the same. It doesn’t matter if we’re building a house, setting up a market, or just mining endlessly. The joy comes from being with you. Every scream when a spider attacks me, every laugh when something goes wrong, every quiet moment leaning into each other while we watch the sunset in our little world. It’s all the experience of being together that makes it special. Minecraft is just the excuse.
-
-Looking back, I realize that this feeling has always been there. I bonded with friends over it before I even knew what it meant, but it wasn’t the same as this. I remember feeling frustrated when people didn’t see it the way I did, when my ex dismissed it as nerdy. I think I just wanted someone to understand why shared moments mattered so much, to want to play alongside me the way I had always imagined. Now I see that he wasn’t the right person, and I’m so grateful that I get to share it with you, someone who makes every moment feel alive and joyful simply by being there.
-
-It was never about the game. It’s the way we explore together. How we want to just make and sit in a tiny, cozy house we built and listen to the in-game music while we talk over call.
-
-Single-player always felt incomplete. Like something was missing. But with you there, suddenly the world feels bigger, funnier, more alive. Every little moment turns into a memory worth keeping. It makes something simple like a block game from our childhood into something more, because we made it something more.`
-    },
-    4: {
-        title: "Let Me See You",
+        title: "Spoiling",
         type: "poem",
-        body: `Even when the room is full
-and silence keeps you still,
-I love when your camera flickers on
-like a secret just for me.
+        body: `Somewhere along the way,
+I noticed something funny about us,
+How every time one of us tries to give,
+The other rushes in to stop it.
 
-I watch the way you smile without speaking,
-how your eyes tell me everything
-you’re too shy to say out loud.
-Your little gestures become whole stories
-only I get to understand.
+“How about I pay?”
+“No, let me.”
+“Please.”
+“Absolutely not.”
 
-I place your window on the left of my screen,
-like a picture frame I never want to close.
-There you are, doing nothing and everything
-all at once.
-I admire you quietly
-and my world feels warmer.
+And somehow,
+We always end up doing it anyway.
 
-You don’t have to talk.
-You don’t have to pose.
-Just let me see you
-in your softest moments,
-your everyday light.
+You pout when I insist,
+Your lips forming that little protest
+That says you don’t want me to spend,
+But also says you secretly feel loved.
 
-Because every time your face appears
-I feel lucky,
-like the universe decided
-that my day deserved
-a little more beauty.
+And I smile every time,
+Because I know that pout,
+It is care disguised as stubbornness,
+Love pretending to be resistance.
 
-So stay where I can see you,
-even for a minute.
-Let my heart be reminded
-of the simple truth
-that you’re real
-and right there with me.`
+We are like that with everything.
+
+Always trying to outdo each other
+In kindness,
+In generosity,
+In taking care.
+
+Who brings the snack,
+Who checks if the other is tired,
+Who makes sure the other is okay,
+Who gives more without keeping score.
+
+We are in a quiet competition
+Where nobody loses,
+Because the only goal
+Is to make the other feel cherished.
+
+I love how we never let love be passive.
+
+We do not just say it.
+We show it
+Through small surprises,
+Through “I’ve got this,”
+Through “Let me handle it,”
+Through “You don’t have to worry.”
+
+I love how you try to stop me from spending on you,
+And I love even more
+That I never really listen.
+
+Not because I do not respect you,
+But because my heart is happiest
+When I get to give to you.
+
+When I get to see you smile,
+When I get to hear you laugh,
+When I know I have made your day
+Just a little brighter.
+
+Spoiling you never feels like a loss.
+
+It feels like gratitude.
+Like saying,
+“Thank you for being in my life,”
+In the only language my heart knew.
+
+And when you do the same for me,
+When you insist,
+When you surprise me,
+When you take care of me in your own way,
+My heart feels so full
+I do not know where to put it.
+
+It amazes me how loved I feel by you.
+
+How safe.
+How seen.
+How valued.
+
+How spoiled I am in ways
+That have nothing to do with money,
+And everything to do with effort.
+
+Our love is playful like this.
+
+Full of teasing,
+Full of gentle arguments,
+Full of “No, me,” and “No, you,”
+Until we are both laughing.
+
+And I would not trade it for anything.
+
+If loving you means
+Always trying to give more,
+Then I will gladly spend my whole life
+Trying to outdo you in that.
+
+I will always be happy
+To choose you,
+To spoil you,
+To tease you,
+To take care of you.
+
+Because every time I do,
+My heart whispers back,
+"I love loving you"`
+    },
+    // --- UPDATED ENTRY 4 ---
+    4: {
+        title: "On Rainy Days",
+        type: "poem",
+        body: `When rain taps softly on my window,
+And clouds cover up the blue,
+I find myself smiling quietly,
+Because every thought leads back to you.
+
+The streets grow calm, the world feels slow,
+Like time has learned to wait,
+And in that pause, my heart remembers
+How loving you feels like fate.
+
+I picture us beneath one umbrella,
+Laughing at getting wet,
+Making ordinary moments
+Into memories I will never forget.
+
+So when the skies begin to cry again,
+And gray replaces blue,
+I will thank the rain for reminding me
+How beautiful life is with you.`
     },
     
-    // --- ENTRY 5: IMAGE, POEM & VIDEO ---
+    // --- ENTRY 5 ---
     5: {
-        title: "Made for You",
+        title: "For You",
         type: "poem",
         
         image: "https://i.ibb.co/KcjqMxB2/9th-hehe.jpg", 
@@ -116,7 +262,6 @@ or night turning into day
 I’m always guided back
 to the love my heart chose.`,
 
-        // Don't forget to put your song here!
         youtube: "https://www.youtube.com/embed/jfKfPfyJRdk?si=SampleVideo" 
     }
 };
@@ -131,10 +276,10 @@ const modal = document.getElementById('reader-modal');
 const closeBtn = document.getElementById('close-btn');
 const modalTitle = document.getElementById('modal-title');
 const modalBody = document.getElementById('modal-body');
+const scrollContent = document.querySelector('.scroll-content');
 
-// --- 1. Intro Logic (Announcement) ---
+// --- 1. Intro Logic ---
 window.addEventListener('load', () => {
-    // Show intro for 3 seconds then fade out
     setTimeout(() => {
         introScreen.style.opacity = '0';
         setTimeout(() => {
@@ -149,7 +294,6 @@ slotItems.forEach(item => {
     const id = item.getAttribute('data-id');
     const entryTitle = entries[id].title;
 
-    // Hover
     item.addEventListener('mouseenter', () => {
         dynamicText.textContent = entryTitle;
         dynamicText.style.color = "#ff8fab";
@@ -160,7 +304,6 @@ slotItems.forEach(item => {
         dynamicText.style.color = "#6d5b6b";
     });
 
-    // Click
     item.addEventListener('click', () => {
         openEntry(id);
     });
@@ -173,6 +316,11 @@ function openEntry(id) {
     modalTitle.textContent = entry.title;
     modalBody.innerHTML = ''; 
     
+    // FIX: SCROLL TO TOP
+    if (scrollContent) {
+        scrollContent.scrollTop = 0;
+    }
+
     // Image
     if (entry.image) {
         const img = document.createElement('img');

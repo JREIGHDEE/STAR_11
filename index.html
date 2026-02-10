@@ -9,14 +9,14 @@
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- Fonts: 'Varela Round' (AC Style) and 'Fredoka' (Cute/Bubbly) -->
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&family=Varela+Round&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    <!-- Background Decor (Heartopia Elements) -->
+    <!-- Floating Background Decor -->
     <div class="bg-decor">
         <div class="cloud c1"><i class="fa-solid fa-cloud"></i></div>
         <div class="cloud c2"><i class="fa-solid fa-cloud"></i></div>
@@ -24,18 +24,18 @@
         <div class="heart h2"><i class="fa-solid fa-heart"></i></div>
     </div>
 
-    <!-- Intro: Isabelle Style Speech Bubble in Pink -->
+    <!-- Intro Screen -->
     <div id="intro-screen">
         <div class="speech-bubble">
             <span class="bubble-icon"><i class="fa-solid fa-bell"></i></span>
-            <h1 class="ac-title">Good morning!</h1>
-            <p>Welcome to our 9th Month!</p>
-            <p>I found some cute memories for you!</p>
+            <h1 class="ac-title">Hi Baby!</h1>
+            <p>Happy 11th!</p>
+            <p>Here's some letters for yew!</p>
             <div class="triangle-down"></div>
         </div>
     </div>
 
-    <!-- Main Interface: The "Nook Phone" Inventory -->
+    <!-- Main Interface -->
     <main id="main-interface" class="hidden">
         
         <div class="inventory-container">
@@ -49,7 +49,7 @@
                 </div>
             </header>
 
-            <!-- The Grid Layout -->
+            <!-- FLEX LAYOUT for Perfect Centering -->
             <div class="inventory-grid">
                 
                 <!-- Entry 1 -->
@@ -57,34 +57,34 @@
                     <div class="item-bg bg-cream">
                         <i class="fa-solid fa-cake-candles item-icon" style="color: #ff9aa2;"></i>
                     </div>
-                    <span class="item-label">Birthdays</span>
+                    <span class="item-label">Birthday Pt.2</span>
                 </div>
 
                 <!-- Entry 2 -->
                 <div class="slot-item" data-id="2">
                     <div class="item-bg bg-blue">
-                        <i class="fa-solid fa-paper-plane item-icon" style="color: #a2d2ff;"></i>
+                        <i class="fa-solid fa-images item-icon" style="color: #a2d2ff;"></i>
                     </div>
-                    <span class="item-label">Missing You</span>
+                    <span class="item-label">Pictures</span>
                 </div>
 
                 <!-- Entry 3 -->
                 <div class="slot-item" data-id="3">
                     <div class="item-bg bg-mint">
-                        <i class="fa-solid fa-shapes item-icon" style="color: #bde0fe;"></i>
+                        <i class="fa-solid fa-hand-holding-heart item-icon" style="color: #bde0fe;"></i>
                     </div>
-                    <span class="item-label">Blocks</span>
+                    <span class="item-label">Spoiling</span>
                 </div>
 
-                <!-- Entry 4 -->
+                <!-- Entry 4 (UPDATED: RAINY DAYS) -->
                 <div class="slot-item" data-id="4">
                     <div class="item-bg bg-purple">
-                        <i class="fa-solid fa-camera item-icon" style="color: #cdb4db;"></i>
+                        <i class="fa-solid fa-cloud-showers-heavy item-icon" style="color: #cdb4db;"></i>
                     </div>
-                    <span class="item-label">See You</span>
+                    <span class="item-label">Rainy Days</span>
                 </div>
 
-                <!-- Entry 5 (Image + Video) -->
+                <!-- Entry 5 -->
                 <div class="slot-item" data-id="5">
                     <div class="item-bg bg-pink">
                         <i class="fa-solid fa-gift item-icon" style="color: #ffc8dd;"></i>
@@ -101,7 +101,7 @@
 
     </main>
 
-    <!-- Modal: AC Letter Stationery -->
+    <!-- Modal -->
     <div id="reader-modal" class="hidden">
         <div class="modal-backdrop"></div>
         
@@ -110,7 +110,6 @@
             
             <div class="scroll-content">
                 <div class="paper-header">
-                    <!-- AC Stamp Style -->
                     <div class="stamp-box">
                         <i class="fa-solid fa-heart"></i>
                     </div>
