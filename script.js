@@ -300,7 +300,7 @@ slotItems.forEach(item => {
     });
 
     item.addEventListener('mouseleave', () => {
-        dynamicText.textContent = "Collection";
+        dynamicText.textContent = "Pick!";
         dynamicText.style.color = "#6d5b6b";
     });
 
