@@ -262,55 +262,55 @@ How beautiful life is with you.`
     5: {
         title: "Valentine",
         type: "poem",
-        body: `Before roses learned her name,
-Before February learned her smile,
-She already carried spring in her hands
+        body: `Before roses learned his name,
+Before February learned his smile,
+He already carried spring in his hands
 And warmth in every silent mile.
 
-She was love before love arrived,
+He was love before love arrived,
 Soft and brave in ways unseen,
 A universe in gentle motion,
 More beautiful than any dream.
 
-I did not give her meaning—
-She was meaning all along.
-I only stood beside her light
+I did not give him meaning—
+He was meaning all along.
+I only stood beside his light
 And learned where I belong.
 
-She laughs like mornings breaking free,
+He laughs like mornings breaking free,
 Like hope that never ends,
-She loves like oceans promise storms
+He loves like oceans promise storms
 And still forgives the wind.
 
 If hearts could write their history,
-Hers would glow in golden ink,
+His would glow in golden ink,
 Every chapter filled with courage
 More than words could ever think.
 
-So if I am her first Valentine,
+So if I am his first Valentine,
 Let it be quietly true:
-Not because I claimed her story,
+Not because I claimed his story,
 But because I honored you.
 
 I will walk with steady hands,
 Not to lead, but understand,
-To guard the dreams she’s growing
-Like treasures in her hand.
+To guard the dreams he’s growing
+Like treasures in his hand.
 
 And when the years have changed our faces
 And time has softened youth,
-I’ll still choose her every season
+I’ll still choose him every season
 With the same unshaken truth.
 
-Not to shine above her sky,
-Not to stand where she should be—
-But to love the way she deserves,
-And let her always be free.
+Not to shine above his sky,
+Not to stand where he should be—
+But to love the way he deserves,
+And let him always be free.
 
-Because she is the miracle,
+Because he is the miracle,
 The wonder, the art, the flame.
 I’m just grateful I was chosen
-To love her all the same.`,
+To love him all the same.`,
 
         youtube: "https://www.youtube.com/embed/7MSjct29Xts?si=fla9-6fpIg2UNQgb" 
     }
