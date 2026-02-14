@@ -3,6 +3,7 @@ const entries = {
     1: {
         title: "Birthday Pt.2",
         type: "letter",
+        image: "https://i.ibb.co/CpmGn5fZ/medal-yey.png",
         body: `For the longest time, I thought birthdays were just dates on a calendar I've told you about it on my birthday.
 
 They were days filled with greetings, cake, pictures, and polite smiles. Something you celebrated, something you got through, something that passed. I never really thought much about what it meant to celebrate someone’s life—what it meant to be there, truly there, for a person on the day that mattered most to them.
@@ -58,9 +59,15 @@ I don’t know exactly what the future holds for us. But I know this: wherever y
 
 Because you're stuck with me, and I am to prove myself to you and your family :>.`
     },
+    
+    // --- ENTRY 2: ADDED IMAGE ---
     2: {
         title: "Pictures",
         type: "letter",
+        
+        // Added a placeholder image for pictures/memories
+        image: "https://i.ibb.co/xqwKhPxB/Disco rd-yieee.png",
+
         body: `I’m writing this while I’m still here, surrounded by noise, laughter, and voices all talking at once. It’s chaotic and loud, nothing like the quiet nights we used to have together. Back then, when it was just the four or three of us friends in a nice place, everything felt slower and softer.
 
 This place is nice. The people are fun. The night is okay. But it would be so much better if you were here.
@@ -110,6 +117,7 @@ Just know that even in the middle of all this noise, you are my favorite thought
     3: {
         title: "Spoiling",
         type: "poem",
+        image: "https://i.ibb.co/d0yQQKJs/Two-by-two.png",
         body: `Somewhere along the way,
 I noticed something funny about us,
 How every time one of us tries to give,
@@ -220,10 +228,15 @@ Because every time I do,
 My heart whispers back,
 "I love loving you"`
     },
-    // --- UPDATED ENTRY 4 ---
+    
+    // --- ENTRY 4: RAIN POEM WITH ADDED IMAGE ---
     4: {
         title: "On Rainy Days",
         type: "poem",
+        
+        // Added a placeholder image for Rain
+        image: "https://i.ibb.co/nN1Ww7N4/0c277993480fb168b1bd4567c78fc435.jpg",
+
         body: `When rain taps softly on my window,
 And clouds cover up the blue,
 I find myself smiling quietly,
@@ -245,24 +258,61 @@ I will thank the rain for reminding me
 How beautiful life is with you.`
     },
     
-    // --- ENTRY 5 ---
+    // --- ENTRY 5: NEW POEM ---
     5: {
-        title: "For You",
+        title: "Valentine",
         type: "poem",
-        
-        image: "https://i.ibb.co/KcjqMxB2/9th-hehe.jpg", 
+        body: `Before roses learned her name,
+Before February learned her smile,
+She already carried spring in her hands
+And warmth in every silent mile.
 
-        body: `There’s a song I’ll sing for you
-about love found far away
-but really every lyric
-is just my heart saying your name.
+She was love before love arrived,
+Soft and brave in ways unseen,
+A universe in gentle motion,
+More beautiful than any dream.
 
-No matter the distance
-or night turning into day
-I’m always guided back
-to the love my heart chose.`,
+I did not give her meaning—
+She was meaning all along.
+I only stood beside her light
+And learned where I belong.
 
-        youtube: "https://www.youtube.com/embed/jfKfPfyJRdk?si=SampleVideo" 
+She laughs like mornings breaking free,
+Like hope that never ends,
+She loves like oceans promise storms
+And still forgives the wind.
+
+If hearts could write their history,
+Hers would glow in golden ink,
+Every chapter filled with courage
+More than words could ever think.
+
+So if I am her first Valentine,
+Let it be quietly true:
+Not because I claimed her story,
+But because I honored you.
+
+I will walk with steady hands,
+Not to lead, but understand,
+To guard the dreams she’s growing
+Like treasures in her hand.
+
+And when the years have changed our faces
+And time has softened youth,
+I’ll still choose her every season
+With the same unshaken truth.
+
+Not to shine above her sky,
+Not to stand where she should be—
+But to love the way she deserves,
+And let her always be free.
+
+Because she is the miracle,
+The wonder, the art, the flame.
+I’m just grateful I was chosen
+To love her all the same.`,
+
+        youtube: "https://www.youtube.com/embed/7MSjct29Xts?si=fla9-6fpIg2UNQgb" 
     }
 };
 
@@ -300,7 +350,7 @@ slotItems.forEach(item => {
     });
 
     item.addEventListener('mouseleave', () => {
-        dynamicText.textContent = "Pick! :3";
+        dynamicText.textContent = "Collection";
         dynamicText.style.color = "#6d5b6b";
     });
 
